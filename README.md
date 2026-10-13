@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction
 
 This Cookbook contains examples and tutorials to help developers build AI systems with copy/paste code snippets that you can easily integrate into your own projects.
@@ -15,3 +16,6 @@ If you're completely new to AI and just getting started with Python, I have a [f
 If you're already comfortable with the basics and want to go deeper, I run a program where I teach developers [how to build and deploy end-to-end GenAI solutions](https://go.datalumina.com/CkIsMAK) using the same approach we use for our agency clients.
 
 And if you're a skilled developer or data professional looking to go independent, I can help you [land your first client](https://go.datalumina.com/MVWhVn9).
+=======
+# cop-ai-almanac
+>>>>>>> origin/main
